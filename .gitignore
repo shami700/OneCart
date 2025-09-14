@@ -1,0 +1,3 @@
+#Excluded the node packages
+
+node_modules
